@@ -38,3 +38,9 @@
     - Internal networking (note this may only be supported by VirtualBox - have not tested al VMMs)
 - NAT networking is the default configuration that is used with virtual machines managers like VirtualBox.
 - Pick on of the other networking methods, and document how to configure it and prove that it is working as you say.
+
+## Submission
+
+1. Commit and push your changes to your repository.  Verify that these changes show in your course repository, https://github.com/WSU-kduncan/cs2900-YOURGITHUBNAME
+
+2. In Pilot, paste the link to your project folder.  Sample link: https://github.com/WSU-kduncan/cs2900-YOURGITHUBUSERNAME/blob/main/Projects/Project1
