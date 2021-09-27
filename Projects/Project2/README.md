@@ -1,5 +1,9 @@
 # Project 2
 
+- [Project Description](#Project-Description)
+- [Template for project](#Template-for-Project)
+- [Submission](#Submission)
+
 ## Objectives
 
 - fidget with different container platforms
@@ -28,6 +32,8 @@ Store screenshots in a folder in your repo, then refence them:
 
 ![a photo could go here](../../Images/markdown-demo.png)
 
+# Template for project
+
 ## Container Technologies
 - Container platform 1
 - Container platform 2
@@ -54,3 +60,9 @@ Store screenshots in a folder in your repo, then refence them:
 - Pause
 - Restart / resume
 - Stop / kill
+
+# Submission
+
+1. Commit and push your changes to your repository.  Verify that these changes show in your course repository, https://github.com/WSU-kduncan/cs2900-YOURGITHUBNAME
+
+2. In Pilot, paste the link to your project folder.  Sample link: https://github.com/WSU-kduncan/cs2900-YOURGITHUBUSERNAME/blob/main/Projects/Project2
