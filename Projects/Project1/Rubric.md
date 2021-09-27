@@ -2,7 +2,7 @@
 
  / 10
 
-## Part 1 - Building VMs ( / 4)
+## Part 1 - Building VMs (  / 4)
 
 1. Create a new Virtual Machine ( / 2)
     - How much disk space?  Fixed or flex?
