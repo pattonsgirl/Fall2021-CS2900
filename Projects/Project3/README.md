@@ -16,3 +16,5 @@
 
 - Use a container registry to publish your container image
 
+- Given recipes, detect vulnerability(s) introduced?
+
