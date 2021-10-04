@@ -49,7 +49,7 @@ Store screenshots in a folder in your repo, then refence them:
 - Define the modes below and why you would want to pick each
 - Initializing versus running the container, and why there is a difference
 - Run and enter shell
-- Run in sandbox mode
+- ~~Run in sandbox mode~~ removed 10/3
 - Run without interacting
 
 ## Logs & Status
