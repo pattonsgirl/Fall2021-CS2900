@@ -50,7 +50,7 @@ Store screenshots in a folder in your repo, then refence them:
 - Initializing versus running the container, and why there is a difference
 - Run and enter shell
 - ~~Run in sandbox mode~~ removed 10/3
-- Run without interacting
+- Run in detached mode
 
 ## Logs & Status
 - Finding out the status of the container
