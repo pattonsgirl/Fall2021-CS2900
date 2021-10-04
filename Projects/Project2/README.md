@@ -3,6 +3,7 @@
 - [Project Description](#Project-Description)
 - [Template for project](#Template-for-Project)
 - [Submission](#Submission)
+- [Rubric](#Rubric)
 
 ## Objectives
 
@@ -66,3 +67,6 @@ Store screenshots in a folder in your repo, then refence them:
 1. Commit and push your changes to your repository.  Verify that these changes show in your course repository, https://github.com/WSU-kduncan/cs2900-YOURGITHUBNAME
 
 2. In Pilot, paste the link to your project folder.  Sample link: https://github.com/WSU-kduncan/cs2900-YOURGITHUBUSERNAME/blob/main/Projects/Project2
+
+# Rubric
+[Rubric](Rubric.md)
