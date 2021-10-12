@@ -47,7 +47,27 @@
     - namespaces (specifically, PID namespaces)
     - cgroups
     - User namespaces (something we might not touch, but don't refer incorrectly ;) )
-    
+- OCI - Open Container Initiative - committee that makes rules about what is and is not a standard container
+    - hint: its all about isolation
+- Container engines
+    - Docker
+    - containerd
+    - LXC
+    - Singularity
+    - podman
+- Container images
+    - registries (Docker Hub has been a focus)
+    - `pull`ing and viewing downloaded images
+- Running containers
+    - executing commands inside
+    - applied exploration of container isolation via chroot, namespace, cgroups
+- Container filesystems
+    - overlayfs
+    - image layer (lower)
+    - modified upper layers (upper) once container runs
+- Container portability
+    - save / load - dealing with image layers
+    - export / import - dealing with the merged overlay filesystem
 
 
 # Ignore these notes for studying
