@@ -41,9 +41,12 @@ Store screenshots in a folder in your repo, then refence them:
 
 2. Investigate vulnerability scanners.
 
-- [Aqua Trivy](https://aquasecurity.github.io/trivy/v0.21.0/)
-
-- Give a brief write up about what each scans and which container engines are supported.
+   - Find a Dockerfile linter (command line tool or VSCode plugin)
+     - What best practices does it search for?
+   - Find a scanner that can scan images for vulnerabilities
+     - You can use [Aqua Trivy](https://aquasecurity.github.io/trivy/v0.21.0/) or something else
+     - Does it have any limits on what can be scanned?
+     - What types of vulnerabilities are scanned?
 
 ## Submission
 
