@@ -9,7 +9,7 @@
 
 - for two different container engines:
   - investigate networking options
-  - investigate a container vulnerability scanner
+  - investigate container vulnerability scanners
 
 ## Project Setup
 
