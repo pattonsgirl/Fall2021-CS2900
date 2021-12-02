@@ -102,3 +102,6 @@
 # Orchestration
 
 - Why?
+- SLURM - job management on HPC
+  - research grade, everyone wnats their code to get a turn
+- Kubernetes - application up time
