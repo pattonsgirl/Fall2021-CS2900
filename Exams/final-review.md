@@ -105,3 +105,5 @@
 - SLURM - job management on HPC
   - research grade, everyone wnats their code to get a turn
 - Kubernetes - application up time
+  - deploy and set how many resources to deploy for a given application
+  - rolling updates
