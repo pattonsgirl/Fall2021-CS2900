@@ -23,6 +23,7 @@
    - user
    - cgroups
    - UTS
+   - https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/
 
 4. What does the following command do:
    docker run -dit --rm --name bubbles --mount type=bind,source=/foo,target=/bar -p 3030:56 busybox ./bar/program
